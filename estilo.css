@@ -1,0 +1,19 @@
+table#tabela1{
+    border: 1px solid #242024;
+    border-spacing: 0px;
+}
+table#tabela1 td{
+    border: 1px solid #c03a3a;
+    padding: 5px;
+}
+table#tabela2{
+    border: 1px solid blue;
+    border-spacing: 0px;
+}
+table#tabela2 td{
+    border: 1px solid black;
+    padding: 10px;
+}
+p{
+    color: #b61f72;
+}
